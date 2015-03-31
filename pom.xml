@@ -12,8 +12,8 @@
     </properties>
         <repositories>
             <repository>
-            <id>local-maven-repo</id>
-            <url>file:///${project.parent.basedir}</url>
+            <id>git-maven-repo</id>
+            <url>https://github.com/moimat/Lab10--maven/maven-repo</url>
              </repository>
         </repositories>
     <dependencies>
